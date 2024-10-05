@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://retiniwigacu.pages.dev/sitemap.xml
